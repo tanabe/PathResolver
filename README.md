@@ -1,3 +1,3 @@
 #PathResolver
 ---
-相対パスを絶対パスに変換する ActionScript ライブラリ
+逶ｸ蟇ｾ繝代せ繧堤ｵｶ蟇ｾ繝代せ縺ｫ螟画鋤縺吶ｋ ActionScript 繝ｩ繧､繝悶Λ繝ｪ
