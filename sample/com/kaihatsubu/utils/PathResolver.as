@@ -13,7 +13,7 @@
      *  @return absolute path
      */
     public static function getAbsolutePath(base:String, target:String):String {
-      var result:String = base.match(/^\/.*\//)[0];;
+      var result:String = base.match(/^\/.*\//)[0];
       var tree:Array = target.split(/\//);
       var fileName:String = tree.pop();
 
